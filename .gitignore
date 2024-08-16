@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 .vscode/
 .vs/
 build/
 *.exe
 *.dll
+=======
+*.o
+main
+.vscode/
+>>>>>>> 882ee24c531354260af9810fb2bd8462a78b233a
